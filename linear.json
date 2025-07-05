@@ -1,0 +1,19 @@
+{
+    "issues": [
+        {
+            "title": "Setup project for {{client_name}}",
+            "description": "Initial setup of the project repository and workspace.",
+            "labels": ["setup", "template"]
+        },
+        {
+            "title": "Project Kick-off Meeting",
+            "description": "Schedule and hold the initial project kick-off meeting.",
+            "labels": ["meeting", "kick-off"]
+        },
+        {
+            "title": "Sprint 1 Planning",
+            "description": "Plan the tasks for the first sprint.",
+            "labels": ["planning", "sprint-1"]
+        }
+    ]
+}

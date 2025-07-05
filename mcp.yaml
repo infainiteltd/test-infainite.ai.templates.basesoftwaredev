@@ -1,0 +1,4 @@
+---
+# This is a placeholder for the MCP configuration.
+# The 'memory' and 'actions' sections are not yet implemented.
+workspace: "{{client_name}}-{{template_name}}"

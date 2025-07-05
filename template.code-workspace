@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			// The project folder itself.
+			"name": "{{project_name}}",
+			"path": "."
+		},
+		{
+			// The shared repositories, located as siblings to this project.
+			"name": "shared-prompts",
+			"path": "../infainite.ai.prompts"
+		},
+		{
+			"name": "shared-templates",
+			"path": "../infainite.ai.templates"
+		},
+		{
+			"name": "shared-tools",
+			"path": "../infainite.ai.tools"
+		},
+		{
+			"name": "shared-context",
+			"path": "../infainite.ai.context"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/node_modules": true,
+			"**/__pycache__": true
+		}
+	}
+} 

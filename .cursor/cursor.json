@@ -1,0 +1,8 @@
+{
+    "repositories": [
+        "infainiteltd/infainite.ai.tools",
+        "infainiteltd/infainite.ai.templates",
+        "infainiteltd/infainite.ai.prompts",
+        "infainiteltd/infainite.ai.docgen"
+    ]
+}
