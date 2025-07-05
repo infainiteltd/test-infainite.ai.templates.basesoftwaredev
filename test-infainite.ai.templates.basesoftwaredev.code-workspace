@@ -2,7 +2,7 @@
 	"folders": [
 		{
 			// The project folder itself.
-			"name": "{{project_name}}",
+			"name": "test-infainite.ai.templates.basesoftwaredev",
 			"path": "."
 		},
 		{
